@@ -1,24 +1,22 @@
 {
-  "name": "phantomjs-polyfill-find",
-  "version": "0.0.1",
-  "description": "Polyfill for Array.prototype.find",
-  "main": "find-polyfill.js",
+  "name": "phantomjs-polyfill-object-assign",
+  "version": "0.0.2",
+  "description": "Polyfill for Object.prototype.assign",
+  "main": "object-assign-polyfill.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ptim/phantomjs-polyfill-find.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "url": "git@github.com:chuckplantain/phantomjs-polyfill-object-assign.git"
   },
   "keywords": [
     "phantomjs",
-    "find",
+    "assign",
+    "object",
     "polyfill"
   ],
-  "author": "Tim Osborn <tim@memelab.com.au>",
+  "author": "Kyle Petan <kyle@plumbdev.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ptim/phantomjs-polyfill-find/issues"
+    "url": "https://github.com/chuckplantain/phantomjs-polyfill-object-assign/issues"
   },
-  "homepage": "https://github.com/ptim/phantomjs-polyfill-find/issues"
+  "homepage": "https://github.com/chuckplantain/phantomjs-polyfill-object-assign"
 }
